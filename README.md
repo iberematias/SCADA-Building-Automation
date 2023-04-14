@@ -51,7 +51,7 @@ Software used
 
 ## Monitoring of Chillers   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/4-t1_6p_chiller.png)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/4-t1_6p_chiller.PNG)
 
 *******
 
