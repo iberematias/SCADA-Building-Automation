@@ -27,7 +27,7 @@ Software used
 
 ## Opening screen  
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/1-main.PNG)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/1-main.PNG)
 
 *******
 
@@ -35,7 +35,7 @@ Software used
 
 ## Example of a climate-controlled floor   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/2-t2_6p.PNG)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/2-t2_6p.PNG)
 
 *******
 
@@ -43,7 +43,7 @@ Software used
 
 ## Chilled water plant with: Cooling towers, motors and pumps with frequency control   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/3-t1_6p_Torre.PNG)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/3-t1_6p_Torre.PNG)
 
 *******
 
@@ -51,7 +51,7 @@ Software used
 
 ## Monitoring of Chillers   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/4-t1_6p_chiller.png)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/4-t1_6p_chiller.png)
 
 *******
 
@@ -59,7 +59,7 @@ Software used
 
 ## Floor temperature trend screens   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/6-t2_2p_Graphics_.PNG)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/6-t2_2p_Graphics_.PNG)
 
 *******
 
@@ -67,6 +67,6 @@ Software used
 
 ## Fancoil trend screens   
 
-![](https://github.com/iberematias/SCADA_Building_Automation/blob/master/src/img/7-t2_5p_graphics.PNG)
+![](https://github.com/iberematias/SCADA_Building_Automation/blob/main/src/img/7-t2_5p_graphics.PNG)
 
 *******
